@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 605e69c9825f0e846a29ffe41fd4e6cb, type: 3}
+  m_Name: Pazzle2Hint
+  m_EditorClassIdentifier: 
+  _infoTextToShow: "\u0425\u0440\u0443\u043F\u043A\u0438\u0439 \u043F\u043E\u043B"
